@@ -24,7 +24,7 @@ const playGameEven = () => {
         console.log(`Let's try again, ${name}!`);
         return;
       }
-    } else {
+    } else if (randomNumber % 2 !== 0) {
       if (userAnswer === oddAnswer) {
         console.log('Correct!');
         correctAnswers += 1;
@@ -37,6 +37,6 @@ const playGameEven = () => {
   }
 
   console.log(`Congratulations, ${name}!`);
-}
+};
 
 export default playGameEven;
