@@ -4,3 +4,5 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)
 
 [![Actions Status](https://github.com/rusanov-dmitry/frontend-project-lvl1/workflows/lint-check/badge.svg)](https://github.com/rusanov-dmitry/frontend-project-lvl1/actions)
+
+[Brain Even Game Recording](https://asciinema.org/a/448730)
