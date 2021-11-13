@@ -10,7 +10,7 @@ const playGameEven = () => {
     const condition = Math.floor(Math.random() * 100);
     const correctAnswer = condition % 2 === 0 ? 'yes' : 'no';
 
-    answersCount = getAnswerAndCompare(condition, correctAnswer, answersCount);
+    answersCount = getAnswerAndCompare(condition, correctAnswer, answersCount, name);
     if (answersCount === -1) return;
   }
 
@@ -18,4 +18,3 @@ const playGameEven = () => {
 };
 
 export default playGameEven;
-  

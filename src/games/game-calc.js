@@ -10,7 +10,7 @@ const playGameCalc = () => {
   while (answersCount < 3) {
     const firstOperand = Math.floor(Math.random() * 10);
     const secondOperand = Math.floor(Math.random() * 10);
-    const randomOperation = operations[Math.floor(Math.random()*operations.length)];
+    const randomOperation = operations[Math.floor(Math.random() * operations.length)];
     const condition = `${firstOperand} ${randomOperation} ${secondOperand}`;
     let correctAnswer = 0;
     if (randomOperation === '+') {
@@ -21,11 +21,11 @@ const playGameCalc = () => {
       correctAnswer = firstOperand * secondOperand;
     }
 
-    answersCount = getAnswerAndCompare(condition, correctAnswer, answersCount);
+    answersCount = getAnswerAndCompare(condition, correctAnswer, answersCount, name);
     if (answersCount === -1) return;
   }
 
   console.log(`Congratulations, ${name}!`);
-}
+};
 
 export default playGameCalc;
