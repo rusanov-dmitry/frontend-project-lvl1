@@ -8,3 +8,5 @@
 [Brain Even Game Recording](https://asciinema.org/a/448730)
 
 [Brain Calc Game Recording](https://asciinema.org/a/448835)
+
+[Brain GCD Game Recording](https://asciinema.org/a/449438)
