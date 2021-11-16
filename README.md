@@ -10,3 +10,5 @@
 [Brain Calc Game Recording](https://asciinema.org/a/448835)
 
 [Brain GCD Game Recording](https://asciinema.org/a/449438)
+
+[Brain Progression Game Recording](https://asciinema.org/a/449447)
