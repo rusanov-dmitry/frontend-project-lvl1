@@ -25,12 +25,12 @@ The project includes 5 games:
 - "Is It A Prime Number?" (run ***brain-prime***)
 
 ## Gameplay for every game
-[Brain Even Game Recording](https://asciinema.org/a/448730)
+["Parity Check" Game Recording](https://asciinema.org/a/448730)
 
-[Brain Calc Game Recording](https://asciinema.org/a/448835)
+["Calculator" Game Recording](https://asciinema.org/a/448835)
 
-[Brain GCD Game Recording](https://asciinema.org/a/449438)
+["GCD" Game Recording](https://asciinema.org/a/449438)
 
-[Brain Progression Game Recording](https://asciinema.org/a/449447)
+["Arithmetic Progression" Game Recording](https://asciinema.org/a/449447)
 
-[Brain Prime Game Recording](https://asciinema.org/a/449457)
+["Is It A Prime Number?" Game Recording](https://asciinema.org/a/449457)
