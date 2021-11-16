@@ -12,3 +12,5 @@
 [Brain GCD Game Recording](https://asciinema.org/a/449438)
 
 [Brain Progression Game Recording](https://asciinema.org/a/449447)
+
+[Brain Prime Game Recording](https://asciinema.org/a/449457)
