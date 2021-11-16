@@ -5,6 +5,26 @@
 
 [![Actions Status](https://github.com/rusanov-dmitry/frontend-project-lvl1/workflows/lint-check/badge.svg)](https://github.com/rusanov-dmitry/frontend-project-lvl1/actions)
 
+# Brain Games
+Project made during training on the Hexlet platform.
+
+## Requirements
+- Node.js 14.x
+
+## Installation process
+1. Create local copy of this repo
+2. Install all dependencies using *make install* command
+3. Run *make publish* and then *npm link* to initialize games by their names
+
+## How to start playing
+The project includes 5 games:
+- "Parity Check" (run ***brain-even***)
+- "Calculator" (run ***brain-calc***)
+- "GCD" (run ***brain-gcd***)
+- "Arithmetic Progression" (run ***brain-progression***)
+- "Is It A Prime Number?" (run ***brain-prime***)
+
+## Gameplay for every game
 [Brain Even Game Recording](https://asciinema.org/a/448730)
 
 [Brain Calc Game Recording](https://asciinema.org/a/448835)
